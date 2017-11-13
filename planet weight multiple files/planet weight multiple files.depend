@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1510184208 source:c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\planet weight multiple files\main.cpp
+	"weight.h"
+
+1510179246 c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\planet weight multiple files\weight_conversion.cpp
+	<iostream>
+	<iomanip>
+
+1510179182 c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\planet weight multiple files\main.cpp
+	<iostream>
+	<iomanip>
+	"Weight_Conversion.cpp"
+
+1510185268 source:c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\planet weight multiple files\weight_conversion.cpp
+	"weight.h"
+
+1510185169 c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\planet weight multiple files\weight.h
+	<iostream>
+	<iomanip>
+

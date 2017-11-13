@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1510183837 source:c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\testing two files\main.cpp
+	"header.h"
+
+1510183837 c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\testing two files\header.h
+	<iostream>
+
+1510180157 c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\testing two files\second.cpp
+	<iostream>
+	"header.h"
+
+1510183837 source:c:\users\herbert sr\desktop\school class folders\cis 25\assignment 17\testing two files\second.cpp
+	"header.h"
+
